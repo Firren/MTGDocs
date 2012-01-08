@@ -1,0 +1,1 @@
+#Documentation for Magic The Gathering API
